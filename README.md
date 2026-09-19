@@ -1,4 +1,4 @@
-# DAMM-Net++: Anatomy-Change-Aware Bidirectional Selective State-Space Memory for Clinically Deployed Thoracic Radiotherapy Auto-Contouring
+Anatomy-Change-Aware Bidirectional Selective State-Space Memory for Clinically Deployed Thoracic Radiotherapy Auto-Contouring
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@ This repository contains the official implementation of **DAMM-Net++** for thora
 
 > **DAMM-Net++: Anatomy-Change-Aware Bidirectional Selective State-Space Memory for Clinically Deployed Thoracic Radiotherapy Auto-Contouring**  
 > *Anonymous Author One, Anonymous Author Two*  
-> **Medical Image Analysis (Under Review)**  
+
 > 📄 [Preprint](https://arxiv.org/abs/XXXX.XXXXX)
 
 ---
